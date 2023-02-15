@@ -1,0 +1,33 @@
+.block {
+  padding: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: 15px;
+}
+
+.input {
+  width: 400px;
+  height: 70px;
+  padding: 5px;
+}
+
+.button {
+  width: 200px;
+  height: 50px;
+  background-color: black;
+  color: wheat;
+}
+
+.result {}
+
+.card {
+  width: 400px;
+  height: 300px;
+}
+
+.card-image {
+  width: 400px;
+  height: 290px;
+}
